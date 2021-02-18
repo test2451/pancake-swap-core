@@ -5,8 +5,8 @@ import { deployContract } from 'ethereum-waffle'
 import { expandTo18Decimals } from './utilities'
 
 import ERC20 from '../../build/ERC20.json'
-import PancakeFactory from '../../build/PancakeFactory.json'
-import PancakePair from '../../build/PancakePair.json'
+import PieFactory from '../../build/PieFactory.json'
+import PiePair from '../../build/PiePair.json'
 
 interface FactoryFixture {
   factory: Contract
