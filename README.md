@@ -1,21 +1,21 @@
-# Pancake Factory
+Pie Factory:
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/pieswap/pie-swap-core/workflows/CI/badge.svg)](https://github.com/pieswap/pie-swap-core/actions)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on PieSwap is available at [docs.pieswap.org](https://docs.pieswap.org/).
 
-# Local Development
+Local Development:
 
 The following assumes the use of `node@>=10`.
 
-## Install Dependencies
+Install Dependencies:
 
 `yarn`
 
-## Compile Contracts
+Compile Contracts:
 
 `yarn compile`
 
-## Run Tests
+Run Tests:
 
 `yarn test`
